@@ -1,5 +1,4 @@
-code
- Markdown
+
 # Project Ghost-Hand: AI Industrial Mentor
 **Gemini API Developer Hackathon 2026**
 
